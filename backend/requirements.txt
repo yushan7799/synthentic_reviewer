@@ -1,0 +1,12 @@
+flask==3.0.0
+flask-cors==4.0.0
+openai==1.12.0
+google-generativeai==0.3.2
+# Use older SQLAlchemy to avoid greenlet issues
+sqlalchemy==1.4.51
+beautifulsoup4==4.12.3
+requests==2.31.0
+pypdf2==3.0.1
+python-dotenv==1.0.0
+pydantic==2.5.3
+lxml==5.1.0
