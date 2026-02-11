@@ -372,4 +372,4 @@ def shutdown_session(exception=None):
 
 if __name__ == '__main__':
     Config.init_app(app)
-    app.run(debug=Config.DEBUG, port=5000)
+    app.run(debug=Config.DEBUG, port=5001)
